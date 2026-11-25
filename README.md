@@ -23,7 +23,7 @@ React (Vite)  ──►  FastAPI  ──►  LiteLLM  ──►  Gemini (key_1, 
 | Backend | https://llm-chatbot-xdd9.onrender.com |
 | Health check | https://llm-chatbot-xdd9.onrender.com/health |
 | GitHub | https://github.com/pallavbharti/llm-chatbot |
-| Demo video | add link here |
+| | Demo video | https://youtu.be/gHUMhTujYx8 |
 
 The backend is on Render's free plan. It goes to sleep after about 15 minutes of no traffic, so the first request can take around 50 seconds. After that it is fast.
 
